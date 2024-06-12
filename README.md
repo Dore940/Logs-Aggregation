@@ -38,7 +38,7 @@ node src/index.js --docker-image node --bash-command $'npm install && node -e "s
 - CLOUDWATCH_STREAM: AWS CloudWatch stream name
 
 ### Run the app 
-`` bash 
+``` bash 
 node src/index.js
 ``` 
 
