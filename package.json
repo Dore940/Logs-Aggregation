@@ -8,5 +8,11 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1639.0",
+        "dockerode": "^4.0.2",
+        "dotenv": "^16.4.5",
+        "yargs": "^17.7.2"
+    }
 }
