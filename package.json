@@ -1,0 +1,12 @@
+{
+    "name": "docker-base",
+    "version": "1.0.0",
+    "description": "docker-cloudwatch-logger/\r │\r ├── src/\r │   ├── dockerManager.js\r │   ├── cloudWatchLogger.js\r │   ├── index.js\r │   ├── logger.js\r │\r ├── .env                 // Environment variables file\r ├── .gitignore           // Ignore environment variables file\r ├── package.json\r └── README.md",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
