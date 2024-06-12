@@ -1,15 +1,4 @@
-docker-cloudwatch-logger/
-│
-├── src/
-│   ├── dockerManager.js
-│   ├── cloudWatchLogger.js
-│   ├── index.js
-│   ├── logger.js
-│
-├── .env                 // Environment variables file
-├── .gitignore           // Ignore environment variables file
-├── package.json
-└── README.md
+
 
 ### Purpose
 
